@@ -1,7 +1,6 @@
 $main-color: #000000;
-$text-color:  #565656;
+$text-color: #565656;
 $section-bottom-margin: 70px;
-
 
 * {
   box-sizing: border-box;
@@ -52,8 +51,8 @@ section {
   font-size: 26px;
   line-height: 166%;
   letter-spacing: 0.1em;
-color: $main-color;
-  margin-bottom: 40px;;
+  color: $main-color;
+  margin-bottom: 40px;
 }
 .text {
   font-family: "Lato-Regular";
